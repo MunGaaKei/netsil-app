@@ -1,4 +1,5 @@
 <h1 align="center">NETSIL</h1>
+[![Downloads](https://img.shields.io/github/downloads/mungaakei/netsil/total)](https://github.com/mungaakei/netsil/releases)
 
 桌面音乐播放平台，聚合 **QQ 音乐** 与 **网易云音乐** 的搜索与播放能力，提供统一的播放队列与播放器体验。
 
@@ -31,5 +32,5 @@
 
 ## 安全性
 
-- macOS：苹果菜单 → 系统设置 → 隐私与安全性 → 往下滚到“安全性”区域 → 点“仍要打开 / Open Anyway”
-- Windows：双击安装包，点“信任”
+- MacOS：苹果菜单 → 系统设置 → 隐私与安全性 → 往下滚到“安全性”区域 → 点“仍要打开 / Open Anyway”
+- Windows：直接安装即可
